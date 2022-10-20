@@ -77,6 +77,13 @@ a.LinkButton {
   left: 16px;
 }
 
+.iaa-container_block .Reconociendo-RedFid .exptop .recono-title {
+  padding-left: 54px;
+  padding-top: 10px;
+  font-size: 20px !important;
+  color: white !important;
+}
+
 .iaa-container_block .Reconociendo-RedFid .expmid {
   position: relative;
   top: 0px;
